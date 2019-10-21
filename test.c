@@ -71,6 +71,8 @@ int
 		"get_next_line.c",
 		"get_next_line_utils.c",
 		"get_next_line.h",
+		"tests/lorem_ipsum",
+		//"tests/Mr. Justice Maxell by Edgar Wallace.txt",
 		NULL
 	};
 
