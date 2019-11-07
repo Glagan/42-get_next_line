@@ -6,7 +6,7 @@
 /*   By: ncolomer <ncolomer@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/10/14 17:39:00 by ncolomer          #+#    #+#             */
-/*   Updated: 2019/10/22 16:41:13 by ncolomer         ###   ########.fr       */
+/*   Updated: 2019/11/07 14:53:54 by ncolomer         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -68,10 +68,14 @@ int
 		"tests/64_line_nl",
 		"tests/65_line",
 		"tests/65_line_nl",
-		"get_next_line.c",
-		"get_next_line_utils.c",
-		"get_next_line.h",
 		"tests/lorem_ipsum",
+		//"get_next_line.c",
+		//"get_next_line_utils.c",
+		//"get_next_line.h",
+		"tests/lorem_ipsum",
+		"tests/baudelaire",
+		"tests/large_file",
+		"tests/long_line",
 		//"tests/Mr. Justice Maxell by Edgar Wallace.txt",
 		NULL
 	};
